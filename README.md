@@ -75,7 +75,7 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=3000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Debugging+life+one+commit+at+a+time.+You+are+not+behind+—+you+are+still+compiling.;The+best+time+to+start+was+yesterday.+The+second+best+time+is+right+now.;Every+expert+was+once+a+beginner+who+refused+to+quit.;Errors+are+not+failures.+They+are+undocumented+features+waiting+to+be+fixed." alt="motivational quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=3000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Debugging+life+one+commit+at+a+time.+You+are+not+behind+--+you+are+still+compiling.;The+best+time+to+start+was+yesterday.+The+second+best+time+is+right+now.;Every+expert+was+once+a+beginner+who+refused+to+quit.;Errors+are+not+failures.+They+are+undocumented+features+waiting+to+be+fixed." alt="motivational quote" />
 </p>
 
 ---
