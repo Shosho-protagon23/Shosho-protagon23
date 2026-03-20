@@ -53,11 +53,9 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 <p>
   <img src="https://skillicons.dev/icons?i=kali,bash,python,linux&theme=dark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CTF%20Player-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CTF%20Player-26DB23?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Web%20Dev-6C6FF0?style=for-the-badge&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Game%20Dev-DB542E?style=for-the-badge&logo=unity&logoColor=black"/>
 </p>
 
 ---
