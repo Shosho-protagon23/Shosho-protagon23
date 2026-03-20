@@ -36,22 +36,22 @@ CURRENT_OP  : Learning. Breaking. Building. Repeat.
 
 ### 🎮 Game Development
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,godot,cs,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity,godot,gamemakerstudio,cs,cpp&theme=dark" />
 </p>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,laravel,php,mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite,dotnet,figma,github,npm,mysql,mongodb&theme=dark" />
 </p>
 
 ### 💻 Programming & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,rust,bash,git,github,linux,docker,vscode,vim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,java,c,cpp,bash,git,github,linux,docker,vscode,vim&theme=dark" />
 </p>
 
 ### 🔒 Cybersecurity
 <p>
-  <img src="https://skillicons.dev/icons?i=kali,bash,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kali,bash,python,linux,arch&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
