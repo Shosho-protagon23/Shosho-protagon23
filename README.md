@@ -75,7 +75,7 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shosho-protagon23&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shosho-protagon23&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
