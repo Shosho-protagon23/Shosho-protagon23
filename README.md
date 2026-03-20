@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=🎮+Building+Worlds+in+Game+Dev;🌐+Crafting+the+Web%2C+One+Line+at+a+Time;🔒+Hunting+Vulnerabilities+in+the+Dark;💻+Turning+Coffee+into+Code+since+Day+1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building+Worlds+in+Game+Dev;Crafting+the+Web%2C+One+Line+at+a+Time;Hunting+Vulnerabilities+in+the+Dark;Turning+Coffee+into+Code+since+Day+1;CTF+Player+%7C+Bug+Hunter+%7C+Builder" alt="Typing SVG" />
 </p>
 
 <!-- Visitor Badge -->
