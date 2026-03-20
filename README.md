@@ -75,7 +75,7 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shosho-protagon23&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=3000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Debugging+life+one+commit+at+a+time.+You+are+not+behind+—+you+are+still+compiling.;The+best+time+to+start+was+yesterday.+The+second+best+time+is+right+now.;Every+expert+was+once+a+beginner+who+refused+to+quit.;Errors+are+not+failures.+They+are+undocumented+features+waiting+to+be+fixed." alt="motivational quote" />
 </p>
 
 ---
