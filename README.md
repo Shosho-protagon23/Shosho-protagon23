@@ -106,6 +106,13 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
   <a href="https://github.com/Shosho-protagon23">
     <img src="https://img.shields.io/badge/GitHub-Shosho--protagon23-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0d0d"/>
   </a>
+  <a href="https://www.linkedin.com/in/faga-imam-w-7939b2314/">
+  <img src="https://img.shields.io/badge/LinkedIn-MY--LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<br>
+<a href="https://www.dicoding.com/users/echofaga/academies">
+  <img src="https://img.shields.io/badge/Dicoding-MY--DICODING-3D5A9E?style=for-the-badge&logo=dicoding&logoColor=white&labelColor=0d0d0d"/>
+</a>
   <!-- Tambahkan link lain di sini: LinkedIn, Discord, TryHackMe, dll -->
 </p>
 
