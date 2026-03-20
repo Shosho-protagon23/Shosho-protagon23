@@ -22,12 +22,12 @@ $ cat /etc/profile.d/ech0_f0xtr0t.sh
 
 NAME        : Ech0_F0xtr0t
 ALIAS       : Shosho-protagon23
-STATUS      : Student | IT Enthusiast
+STATUS      : College Student | IT Enthusiast
 MISSION     : [CLASSIFIED]
 FIELDS      : Game Dev | Web Dev | Programming | Cybersecurity
 OS          : Kali Linux // Windows // "it depends on the task"
 LOCATION    : [CLASSIFIED]
-CURRENT_OP  : Learning. Breaking. Building. Repeat.
+CURRENT_OP  : Learning. Building. Breaking. Repeat.
 ```
 
 ---
@@ -41,17 +41,17 @@ CURRENT_OP  : Learning. Breaking. Building. Repeat.
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite,dotnet,figma,github,npm,mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite,dotnet,figma,github,npm,mysql&theme=dark" />
 </p>
 
 ### 💻 Programming & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sqlite,java,c,cpp,bash,git,github,linux,docker,vscode,vim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,java,c,cpp,bash,git,github,linux,vscode,vim&theme=dark" />
 </p>
 
 ### 🔒 Cybersecurity
 <p>
-  <img src="https://skillicons.dev/icons?i=kali,bash,python,linux,arch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kali,bash,python,linux&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
