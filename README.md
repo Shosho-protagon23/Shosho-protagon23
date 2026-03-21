@@ -90,6 +90,18 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 
 > ⚠️ *Stay tuned for some projects of mine*
 
+> 💻 Tool(s) ==> On Progress...<br>
+
+
+> 🌐 Web Project(s) ==> On Progress...<br>
+
+
+> 🎮 Game Project(s) ==> Coming Soon<br>
+
+
+> 🔒 CySec Project(s) ==> Coming Soon<br>
+
+
 ---
 
 ## `> activity --graph`
