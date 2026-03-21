@@ -54,8 +54,6 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
   <img src="https://skillicons.dev/icons?i=kali,bash,python,linux&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/CTF%20Player-26DB23?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Web%20Dev-6C6FF0?style=for-the-badge&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Game%20Dev-DB542E?style=for-the-badge&logo=unity&logoColor=black"/>
 </p>
 
 ---
