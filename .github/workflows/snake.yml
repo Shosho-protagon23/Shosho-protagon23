@@ -1,97 +1,48 @@
 name: GitHub Snake Game
 
-
-
+# Trigger workflow: otomatis tiap hari tengah malam UTC,
+# bisa dijalankan manual, atau saat ada push ke branch main
 on:
-
-  # Schedule the workflow to run daily at midnight UTC
-
   schedule:
-
     - cron: "0 0 * * *"
-
-
-
-  # Allow manual triggering of the workflow
-
   workflow_dispatch:
-
-
-
-  # Trigger the workflow on pushes to the main branch
-
   push:
-
     branches:
-
       - main
 
-
+# Paksa semua action berjalan di Node.js 24
+# (mencegah deprecation warning dari Node.js 20)
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
-
   generate:
-
     runs-on: ubuntu-latest
-
-    timeout-minutes: 10
-
-
+    timeout-minutes: 10  # Batalkan job otomatis jika melebihi 10 menit
 
     steps:
-
-      # Step 1: Checkout the repository
-
+      # Step 1: Ambil isi repository agar bisa diproses oleh step berikutnya
       - name: Checkout Repository
-
         uses: actions/checkout@v4
 
-
-
-      # Step 2: Generate the snake animations
-
+      # Step 2: Generate animasi snake dari data kontribusi GitHub
       - name: Generate GitHub Contributions Snake Animations
-
         uses: Platane/snk@v3
-
         with:
-
-          # GitHub username to generate the animation for
-
-          github_user_name: ${{ github.repository_owner }}
-
-
-
-          # Define the output files and their configurations
-
+          github_user_name: ${{ github.repository_owner }}  # Username diambil otomatis dari repo
           outputs: |
-
-            dist/github-snake.svg
-
-            dist/github-snake-dark.svg?palette=github-dark
-
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+            dist/github-snake.svg                            # Versi terang (light mode)
+            dist/github-snake-dark.svg?palette=github-dark  # Versi gelap (dark mode)
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9  # Versi GIF tema ocean
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token otomatis dari GitHub Actions
 
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-      # Step 3: Deploy the generated files to the 'output' branch
-
+      # Step 3: Upload hasil generate ke branch 'output'
+      # Branch ini yang dijadikan sumber URL gambar di README
       - name: Deploy to Output Branch
-
         uses: peaceiris/actions-gh-pages@v4
-
         with:
-
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
-          publish_dir: ./dist
-
-          publish_branch: output
-
-          # Optionally, you can set a custom commit message
-
-          commit_message: "Update snake animation [skip ci]"
+          publish_dir: ./dist           # Folder berisi file hasil generate
+          publish_branch: output        # Branch tujuan deploy
+          commit_message: "Update snake animation [skip ci]"  # [skip ci] agar tidak memicu workflow lagi
