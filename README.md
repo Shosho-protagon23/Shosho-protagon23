@@ -110,6 +110,10 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shosho-protagon23&bg_color=0d0d0d&color=00ff41&line=00b4d8&point=00ff41&area=true&hide_border=false&border_color=00ff41&title_color=00ff41" />
 </p>
 
+<p align="center">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shosho-protagon23/Shosho-protagon23/output/github-snake-dark.svg" />
+</p>
+
 ---
 
 ## `> ping ./connect`
