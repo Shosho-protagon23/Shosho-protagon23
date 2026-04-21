@@ -61,9 +61,9 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 ## `> cat ./stats.log`
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shosho-protagon23&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00ff41&title_color=00ff41&icon_color=00b4d8&text_color=ffffff&bg_color=0d0d0d"/>
+  <img height="180em" src="https://github-readme-stats-indol-seven-40.vercel.app/api?username=Shosho-protagon23&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00ff41&title_color=00ff41&icon_color=00b4d8&text_color=ffffff&bg_color=0d0d0d"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shosho-protagon23&layout=compact&theme=chartreuse-dark&border_color=00ff41&title_color=00ff41&text_color=ffffff&bg_color=0d0d0d"/>
+  <img height="180em" src="https://github-readme-stats-indol-seven-40.vercel.app/api/top-langs/?username=Shosho-protagon23&layout=compact&theme=chartreuse-dark&border_color=00ff41&title_color=00ff41&text_color=ffffff&bg_color=0d0d0d"/>
 </p>
 
 <p align="center">
