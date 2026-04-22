@@ -33,5 +33,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          destination_dir: pacman
           keep_files: true
           commit_message: "Update pacman [skip ci]"
