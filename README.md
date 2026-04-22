@@ -138,3 +138,11 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=;%22In+the+dark%2C+every+line+of+code+glows.%22;%5BCONNECTION+ESTABLISHED%5D" />
 </p>
+
+---
+
+## `> ping ./snake`
+
+<p align="center">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shosho-protagon23/Shosho-protagon23/output/github-snake-dark.svg" />
+</p>
