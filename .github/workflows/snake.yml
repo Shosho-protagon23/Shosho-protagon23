@@ -33,4 +33,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          keep_files: true
           commit_message: "Update snake [skip ci]"
