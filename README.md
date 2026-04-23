@@ -143,9 +143,9 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 
 ## `> ping ./snake`
 
-
-
----
-
-## `> ping ./pacman`
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shosho-protagon23/Shosho-protagon23/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Shosho-protagon23/Shosho-protagon23/output/github-snake-color.gif" />
+  </picture>
+</p>
