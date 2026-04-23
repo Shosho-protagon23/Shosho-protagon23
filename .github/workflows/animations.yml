@@ -19,27 +19,34 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Generate Snake
+      # Generate Snake ke folder dist-snake/
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist-snake/github-snake.svg
+            dist-snake/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Generate Pacman
+      # Generate Pacman ke folder dist-pacman/
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-pacman.svg?type=pacman
-            dist/github-pacman-dark.svg?type=pacman&palette=github-dark
+            dist-pacman/github-pacman.svg?type=pacman
+            dist-pacman/github-pacman-dark.svg?type=pacman&palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Deploy semua sekaligus dalam satu kali push
+      # Gabungkan kedua folder ke dist/
+      - name: Merge output folders
+        run: |
+          mkdir -p dist
+          cp dist-snake/* dist/
+          cp dist-pacman/* dist/
+
+      # Deploy dist/ yang sudah berisi keduanya
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
