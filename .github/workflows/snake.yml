@@ -1,4 +1,4 @@
-name: GitHub Animations
+name: GitHub Snake
 
 on:
   schedule:
@@ -19,27 +19,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Generate Snake
+      # Generate animasi snake
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-color.gif?color_snake=#00ff41&color_dots=#003300,#006600,#00aa00,#00cc00,#00ff41
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Generate Pacman (action berbeda)
-      - uses: hugoesb/github-pacman-animation@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output_path: dist/github-pacman-dark.svg
-
-      # Deploy
+      # Deploy ke branch output
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update animations [skip ci]"
+          commit_message: "Update snake [skip ci]"
