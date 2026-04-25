@@ -20,12 +20,12 @@
 ```bash
 $ cat /etc/profile.d/ech0_f0xtr0t.sh
 
-NAME        : Ech0_F0xtr0t
+NAME        : Faga Imam WIcaksono (Ech0_F0xtr0t)
 ALIAS       : Shosho-protagon23
 STATUS      : College Student | IT Enthusiast
 MISSION     : [CLASSIFIED]
 FIELDS      : Game Dev | Web Dev | Programming | Cybersecurity
-OS          : Kali Linux // Windows // "it depends on the task"
+OS          : Kali Linux // Windows
 LOCATION    : [CLASSIFIED]
 CURRENT_OP  : Learning. Building. Breaking. Repeat.
 ```
@@ -80,9 +80,9 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 
 ```
 📁 ACTIVE PROJECTS
-├── 🎮 [GAME]     — {Game title} · Unity/Godot · [status: ongoing]
+├── 🎮 [GAME]     — {Game title} · Unity/Godot/Gamemaker · [status: ongoing]
 ├── 🌐 [WEB]      — {Project name} · Next.js + Node · [status: ongoing]
-├── 🔒 [SEC]      — CTF Writeups · TryHackMe / HackTheBox · [ongoing]
+├── 🔒 [SEC]      — CTF Writeups · TryHackMe/HackTheBox/Vulnyx · [ongoing]
 └── 💻 [CODE]     — {Tool/Script name} · Python · [status: active]
 ```
 
