@@ -89,8 +89,8 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 > ⚠️ *Stay tuned for some projects of mine*
 
 > 💻 Tool(s) ==> On Progress...<br>
-> <a href="https://github.com/Shosho-protagon23/Pass_Gen_A1">1. Pass_Gen_GenA1 (Password Generator)</a><br>
-> <a href="https://github.com/Shosho-protagon23/Pass_Gen_A2">2. Pass_Gen_GenA2 (Password Generator with the Score feature)</a>
+> <a href="https://github.com/Shosho-protagon23/PassGen-A1.git">1. Pass_Gen_GenA1 (Password Generator)</a><br>
+> <a href="https://github.com/Shosho-protagon23/PassGen-A2.git">2. Pass_Gen_GenA2 (Password Generator with the Score feature)</a>
 
 
 > 🌐 Web Project(s) ==> On Progress...<br>
