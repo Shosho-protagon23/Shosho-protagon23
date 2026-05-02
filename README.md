@@ -102,6 +102,20 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 
 > 🔒 CySec Project(s) ==> Coming Soon<br>
 
+---
+
+## `> ls ./College_n_Stuff --highlight`
+
+> 🏛 College Tasks
+> <a href="https://github.com/Shosho-protagon23/Challenge_Praktikum2_PemWeb.git">Pemweb_prak2_Task</a><br>
+> <a href="https://github.com/Shosho-protagon23/Challenge_Praktikum3_Pemweb.git">Pemweb_prak3_Task</a><br>
+> <a href="https://github.com/Shosho-protagon23/Challenge_Praktikum4_Pemweb.git">Pemweb_prak4_Task</a><br>
+> <a href="https://github.com/Shosho-protagon23/Challenge_Praktikum5_Pemweb.git">Pemweb_prak5_Task</a><br>
+> <a href="https://github.com/Shosho-protagon23/Challenge_Praktikum7_Pemweb.git">Pemweb_prak7_Task</a>
+
+
+> ✴ Extra Assignments and Projects
+> <a href="https://github.com/Shosho-protagon23/dicoding-submission-essai-SS-assignment.git">Soft Skills Assignments (Dicoding)</a><br>
 
 ---
 
