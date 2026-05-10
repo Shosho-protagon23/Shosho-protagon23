@@ -122,6 +122,12 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 ## `> activity --graph`
 
 <p align="center">
+  <a href="https://lab.whoamitang.com/user/echolearn.id">
+    <img src="https://lab.whoamitang.com/badge/echolearn.id.png" alt="whoamilab"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shosho-protagon23&bg_color=0d0d0d&color=00ff41&line=00b4d8&point=00ff41&area=true&hide_border=false&border_color=00ff41&title_color=00ff41" />
 </p>
 
