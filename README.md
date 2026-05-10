@@ -36,17 +36,17 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 
 ### 🎮 Game Development
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,godot,gamemakerstudio,cs,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,dotnet&theme=dark" />
 </p>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite,dotnet,figma,github,npm,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite,figma,github,npm,mysql,vercel&theme=dark" />
 </p>
 
 ### 💻 Programming & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sqlite,java,c,cpp,bash,git,github,linux,vscode,vim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,java,bash,git,github,vscode,vim&theme=dark" />
 </p>
 
 ### 🔒 Cybersecurity
