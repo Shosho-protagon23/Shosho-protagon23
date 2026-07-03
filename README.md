@@ -101,7 +101,10 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 
 
 > 🔒 CySec Project(s) ==> Coming Soon<br>
-> <a href="https://github.com/Shosho-protagon23/OverTheWire_Write-ups.git">1. OverTheWire (writeup)</a>
+> <a href="">1. OverTheWire Writeup (private)</a><br>
+> <a href="">2. Breachlab.org Writeup (private) </a><br>
+> <a href="">3. Whoamitang Labs Writeup (private) </a><br>
+> <a href="">4. Pico CTF Writeup (private) (private)</a><br>
 
 ---
 
