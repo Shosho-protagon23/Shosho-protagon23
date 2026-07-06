@@ -95,9 +95,12 @@ CURRENT_OP  : Learning. Building. Breaking. Repeat.
 
 
 > 🌐 Web Project(s) ==> On Progress...<br>
+> <a href="https://github.com/Shosho-protagon23/AMTEHI.git">1. AMTEHI (Amikom Temu Hilang)</a><br>
+> <a href="">2. AEGIS Vault (localhost password vault) -- Coming Soon</a>
 
 
 > 🎮 Game Project(s) ==> Coming Soon<br>
+> <a href="">1. System NULL</a>
 
 
 > 🔒 CySec Project(s) ==> Coming Soon<br>
